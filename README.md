@@ -7,3 +7,8 @@
     - MacOS / Linux: `source env/bin/activate`
 - 4. В корне проекта вводим `pip install -r r.txt`
 - 5. Для запуска проекта вводим: `python3 main.py`
+
+
+Гайд по работе с emails.py:
+- Вставьте ваши почты в формате `почта:пароль` в emails.txt
+- Запустить скрипт при помощи `python emails.py`
